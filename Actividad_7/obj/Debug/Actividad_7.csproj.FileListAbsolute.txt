@@ -1,0 +1,6 @@
+C:\Users\almma\Desktop\Actividad_7\obj\Debug\Actividad_7.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Actividad_7\bin\Debug\Actividad_7.exe.config
+C:\Users\almma\Desktop\Actividad_7\bin\Debug\Actividad_7.exe
+C:\Users\almma\Desktop\Actividad_7\bin\Debug\Actividad_7.pdb
+C:\Users\almma\Desktop\Actividad_7\obj\Debug\Actividad_7.exe
+C:\Users\almma\Desktop\Actividad_7\obj\Debug\Actividad_7.pdb

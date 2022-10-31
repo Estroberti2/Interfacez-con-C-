@@ -1,0 +1,12 @@
+C:\Users\almma\Desktop\Actividad_4\obj\Debug\Actividad_5.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Actividad_4\bin\Debug\Actividad_5.exe.config
+C:\Users\almma\Desktop\Actividad_4\bin\Debug\Actividad_5.exe
+C:\Users\almma\Desktop\Actividad_4\bin\Debug\Actividad_5.pdb
+C:\Users\almma\Desktop\Actividad_4\obj\Debug\Actividad_5.exe
+C:\Users\almma\Desktop\Actividad_4\obj\Debug\Actividad_5.pdb
+C:\Users\almma\Desktop\Actividad_5\obj\Debug\Actividad_5.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Actividad_5\obj\Debug\Actividad_5.exe
+C:\Users\almma\Desktop\Actividad_5\bin\Debug\Actividad_5.exe.config
+C:\Users\almma\Desktop\Actividad_5\bin\Debug\Actividad_5.exe
+C:\Users\almma\Desktop\Actividad_5\bin\Debug\Actividad_5.pdb
+C:\Users\almma\Desktop\Actividad_5\obj\Debug\Actividad_5.pdb
